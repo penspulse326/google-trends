@@ -71,7 +71,7 @@ async function getGoogleTrends() {
     trends: trends,
   };
 
-  fs.writeFileSync('google-trends.json', JSON.stringify(output, null, 2));
+  fs.writeFileSync('data.json', JSON.stringify(output, null, 2));
   console.log('Google Trends 資料已儲存至 google-trends.json');
 }
 
