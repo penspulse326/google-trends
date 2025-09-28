@@ -2,7 +2,7 @@ name: Update Trends
 
 on:
   schedule:
-    - cron: "0,30 * * * *"
+    - cron: "15,45 * * * *"
   workflow_dispatch:
 
 jobs:
