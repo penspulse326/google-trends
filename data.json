@@ -1,11 +1,8 @@
 {
-  "updated": "2025-09-30T23:25:44.196Z",
+  "updated": "2025-09-30T23:47:16.228Z",
   "trends": [
     {
       "content": "mlb"
-    },
-    {
-      "content": "美國職棒"
     },
     {
       "content": "mlb季後賽"
@@ -17,7 +14,10 @@
       "content": "洋基"
     },
     {
-      "content": "mlb直播"
+      "content": "美國職棒"
+    },
+    {
+      "content": "流感症狀"
     },
     {
       "content": "chelsea vs benfica"
@@ -29,19 +29,16 @@
       "content": "大樂透開獎號碼查詢"
     },
     {
-      "content": "流感症狀"
-    },
-    {
-      "content": "費半指數"
+      "content": "mlb直播"
     },
     {
       "content": "歐冠"
     },
     {
-      "content": "小林村"
+      "content": "費半指數"
     },
     {
-      "content": "adr"
+      "content": "小林村"
     }
   ]
 }
