@@ -1,5 +1,5 @@
 {
-  "updated": "2025-09-30T17:29:07.765Z",
+  "updated": "2025-09-30T17:46:57.167Z",
   "trends": [
     {
       "content": "菲律賓地震"
@@ -20,13 +20,10 @@
       "content": "停電"
     },
     {
-      "content": "磁暴"
-    },
-    {
-      "content": "crwv"
-    },
-    {
       "content": "八炯"
+    },
+    {
+      "content": "磁暴"
     },
     {
       "content": "twice 大巨蛋"
@@ -38,13 +35,16 @@
       "content": "00935"
     },
     {
-      "content": "欣興"
-    },
-    {
       "content": "文詠珊"
     },
     {
+      "content": "欣興"
+    },
+    {
       "content": "新聞殺人事件"
+    },
+    {
+      "content": "coreweave"
     }
   ]
 }
