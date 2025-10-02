@@ -1,20 +1,35 @@
 {
-  "updated": "2025-10-02T22:28:27.675Z",
+  "updated": "2025-10-02T22:47:42.037Z",
   "trends": [
     {
-      "content": "威力彩"
+      "content": "mlb"
+    },
+    {
+      "content": "教士"
+    },
+    {
+      "content": "美國職棒"
+    },
+    {
+      "content": "特斯拉股價"
+    },
+    {
+      "content": "中秋連假"
+    },
+    {
+      "content": "mlb季後賽"
     },
     {
       "content": "nvidia 股價"
+    },
+    {
+      "content": "comet"
     },
     {
       "content": "歐聯"
     },
     {
       "content": "台灣彩券"
-    },
-    {
-      "content": "特斯拉"
     }
   ]
 }
