@@ -1,9 +1,6 @@
 {
-  "updated": "2025-10-04T22:47:28.529Z",
+  "updated": "2025-10-04T23:24:59.340Z",
   "trends": [
-    {
-      "content": "hola"
-    },
     {
       "content": "mlb"
     },
@@ -11,16 +8,19 @@
       "content": "mlb季後賽"
     },
     {
-      "content": "madrid vs villarreal"
-    },
-    {
       "content": "mlb直播"
     },
     {
-      "content": "mlb戰績"
+      "content": "hola"
     },
     {
       "content": "洋基"
+    },
+    {
+      "content": "madrid vs villarreal"
+    },
+    {
+      "content": "mlb戰績"
     },
     {
       "content": "chelsea đấu với liverpool"
@@ -29,7 +29,13 @@
       "content": "real madrid đấu với villarreal"
     },
     {
-      "content": "德甲"
+      "content": "緯來體育台"
+    },
+    {
+      "content": "體育"
+    },
+    {
+      "content": "台灣運彩"
     }
   ]
 }
