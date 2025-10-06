@@ -1,11 +1,17 @@
 {
-  "updated": "2025-10-06T22:47:12.478Z",
+  "updated": "2025-10-06T23:25:27.468Z",
   "trends": [
+    {
+      "content": "mlb"
+    },
     {
       "content": "鏡週刊"
     },
     {
-      "content": "lebron james"
+      "content": "道奇"
+    },
+    {
+      "content": "費城人 對 道奇"
     },
     {
       "content": "mlb直播"
@@ -15,6 +21,9 @@
     },
     {
       "content": "道奇賽程"
+    },
+    {
+      "content": "美國職棒"
     }
   ]
 }
