@@ -1,11 +1,26 @@
 {
-  "updated": "2025-10-08T22:47:22.128Z",
+  "updated": "2025-10-08T23:25:35.151Z",
   "trends": [
+    {
+      "content": "台積電adr"
+    },
     {
       "content": "台北天氣"
     },
     {
-      "content": "sora"
+      "content": "水手"
+    },
+    {
+      "content": "道奇賽程"
+    },
+    {
+      "content": "espn mlb"
+    },
+    {
+      "content": "星座運勢"
+    },
+    {
+      "content": "一週天氣"
     }
   ]
 }
