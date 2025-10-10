@@ -1,50 +1,44 @@
 {
-  "updated": "2025-10-10T22:47:09.530Z",
+  "updated": "2025-10-10T23:24:50.012Z",
   "trends": [
     {
-      "content": "比特幣"
+      "content": "台積電adr"
     },
     {
-      "content": "台積電adr"
+      "content": "比特幣"
     },
     {
       "content": "btc"
     },
     {
-      "content": "加密貨幣"
-    },
-    {
-      "content": "美國股市"
-    },
-    {
       "content": "虛擬貨幣"
-    },
-    {
-      "content": "世界盃資格賽"
     },
     {
       "content": "eth"
     },
     {
-      "content": "輝達股價"
-    },
-    {
-      "content": "美元指數"
-    },
-    {
-      "content": "7-11"
+      "content": "tsm stock"
     },
     {
       "content": "美光股價"
     },
     {
-      "content": "nvda stock"
+      "content": "nvda"
+    },
+    {
+      "content": "nvidia 股價"
+    },
+    {
+      "content": "美金"
+    },
+    {
+      "content": "vt"
+    },
+    {
+      "content": "7-11"
     },
     {
       "content": "特斯拉股價"
-    },
-    {
-      "content": "海嘯"
     }
   ]
 }
