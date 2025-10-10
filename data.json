@@ -1,20 +1,35 @@
 {
-  "updated": "2025-10-10T21:49:39.799Z",
+  "updated": "2025-10-10T22:29:05.236Z",
   "trends": [
     {
       "content": "比特幣"
     },
     {
+      "content": "台積電adr"
+    },
+    {
+      "content": "虛擬貨幣"
+    },
+    {
+      "content": "btc"
+    },
+    {
       "content": "世界盃資格賽"
     },
     {
-      "content": "世界盃歐洲區資格賽"
+      "content": "美元指數"
+    },
+    {
+      "content": "eth"
+    },
+    {
+      "content": "道瓊指數"
+    },
+    {
+      "content": "海嘯"
     },
     {
       "content": "特斯拉股價"
-    },
-    {
-      "content": "費半指數"
     }
   ]
 }
