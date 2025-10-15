@@ -1,62 +1,50 @@
 {
-  "updated": "2025-10-15T13:52:14.256Z",
+  "updated": "2025-10-15T14:35:07.013Z",
   "trends": [
     {
-      "content": "陳其邁"
-    },
-    {
-      "content": "蔡其昌"
-    },
-    {
-      "content": "npb"
-    },
-    {
       "content": "新壽"
+    },
+    {
+      "content": "apple"
+    },
+    {
+      "content": "oklo"
     },
     {
       "content": "寶可夢傳說 z-a"
     },
     {
-      "content": "日本職棒"
-    },
-    {
-      "content": "hle"
-    },
-    {
-      "content": "館長"
-    },
-    {
-      "content": "539直播"
-    },
-    {
-      "content": "geng"
-    },
-    {
-      "content": "世界賽賽程"
-    },
-    {
-      "content": "熊黛林"
-    },
-    {
-      "content": "折腰短劇"
-    },
-    {
-      "content": "oklo stock"
-    },
-    {
-      "content": "lol esport"
+      "content": "徐藝洋"
     },
     {
       "content": "ait"
     },
     {
+      "content": "npb"
+    },
+    {
+      "content": "lol esport"
+    },
+    {
+      "content": "539直播"
+    },
+    {
+      "content": "日本職棒"
+    },
+    {
+      "content": "熊黛林"
+    },
+    {
+      "content": "geng"
+    },
+    {
+      "content": "hle"
+    },
+    {
       "content": "颱風動態"
     },
     {
-      "content": "al"
-    },
-    {
-      "content": "iren"
+      "content": "折腰短劇"
     },
     {
       "content": "lpl"
@@ -65,10 +53,16 @@
       "content": "葉芯嫙"
     },
     {
+      "content": "世界賽賽程"
+    },
+    {
       "content": "東成醬油"
     },
     {
       "content": "台南火災"
+    },
+    {
+      "content": "館長刑事局"
     }
   ]
 }
