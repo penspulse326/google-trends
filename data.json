@@ -1,41 +1,44 @@
 {
-  "updated": "2025-10-16T22:27:47.783Z",
+  "updated": "2025-10-16T22:47:28.979Z",
   "trends": [
+    {
+      "content": "颱風"
+    },
     {
       "content": "天氣預報"
     },
     {
-      "content": "奧丁丁"
+      "content": "mlb直播"
     },
     {
       "content": "黃金"
     },
     {
-      "content": "輝達股價"
+      "content": "台指夜盤"
     },
     {
-      "content": "今彩539"
-    },
-    {
-      "content": "hami video"
-    },
-    {
-      "content": "美股台積電"
-    },
-    {
-      "content": "川普"
-    },
-    {
-      "content": "道瓊工業平均指數"
+      "content": "夜盤"
     },
     {
       "content": "美光股價"
     },
     {
-      "content": "trump"
+      "content": "hami video"
     },
     {
-      "content": "人民幣"
+      "content": "川普"
+    },
+    {
+      "content": "nvidia 股價"
+    },
+    {
+      "content": "費半"
+    },
+    {
+      "content": "今彩539"
+    },
+    {
+      "content": "trump"
     }
   ]
 }
