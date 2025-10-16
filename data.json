@@ -1,5 +1,5 @@
 {
-  "updated": "2025-10-16T19:22:39.136Z",
+  "updated": "2025-10-16T19:47:25.265Z",
   "trends": [
     {
       "content": "華航"
@@ -11,10 +11,16 @@
       "content": "華航線上旅展"
     },
     {
+      "content": "trump"
+    },
+    {
+      "content": "vix"
+    },
+    {
       "content": "中華航空"
     },
     {
-      "content": "trump"
+      "content": "paypal"
     },
     {
       "content": "w korea"
@@ -26,16 +32,7 @@
       "content": "台灣大哥大"
     },
     {
-      "content": "vix"
-    },
-    {
       "content": "人民幣"
-    },
-    {
-      "content": "美光"
-    },
-    {
-      "content": "paypal"
     }
   ]
 }
