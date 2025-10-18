@@ -1,14 +1,17 @@
 {
-  "updated": "2025-10-18T22:28:46.884Z",
+  "updated": "2025-10-18T23:25:23.034Z",
   "trends": [
     {
-      "content": "颱風"
+      "content": "天氣"
     },
     {
       "content": "氣象"
     },
     {
-      "content": "德甲"
+      "content": "weather"
+    },
+    {
+      "content": "thời tiết"
     }
   ]
 }
