@@ -1,17 +1,20 @@
 {
-  "updated": "2025-10-19T02:20:15.978Z",
+  "updated": "2025-10-19T03:36:53.914Z",
   "trends": [
     {
-      "content": "天氣"
+      "content": "豪雨特報"
     },
     {
-      "content": "weather"
+      "content": "袁惟仁"
+    },
+    {
+      "content": "kktix"
     },
     {
       "content": "空氣品質"
     },
     {
-      "content": "袁惟仁"
+      "content": "李乾龍"
     },
     {
       "content": "雷達"
@@ -20,22 +23,13 @@
       "content": "日本職棒季後賽"
     },
     {
-      "content": "鈊象"
-    },
-    {
-      "content": "cwa"
-    },
-    {
-      "content": "thời tiết"
+      "content": "giá vàng hôm nay"
     },
     {
       "content": "降雨機率"
     },
     {
       "content": "水手藍鳥"
-    },
-    {
-      "content": "太魯閣國家公園"
     }
   ]
 }
