@@ -1,71 +1,80 @@
 {
-  "updated": "2025-10-20T11:47:30.895Z",
+  "updated": "2025-10-20T12:58:57.510Z",
   "trends": [
     {
-      "content": "明天放假"
-    },
-    {
       "content": "10/21停班停課"
-    },
-    {
-      "content": "內湖土石流"
-    },
-    {
-      "content": "日本職棒"
-    },
-    {
-      "content": "npb"
-    },
-    {
-      "content": "aws 當機"
-    },
-    {
-      "content": "夏宇禾"
-    },
-    {
-      "content": "九孔"
-    },
-    {
-      "content": "gd演唱會"
-    },
-    {
-      "content": "downdetector"
-    },
-    {
-      "content": "達孝太"
-    },
-    {
-      "content": "新竹"
     },
     {
       "content": "張善政"
     },
     {
-      "content": "韋禮加"
+      "content": "日本職棒"
     },
     {
-      "content": "處置股"
+      "content": "新北"
     },
     {
       "content": "侯友宜"
     },
     {
-      "content": "員山子分洪道"
+      "content": "陳玟溥"
+    },
+    {
+      "content": "新北市市長"
+    },
+    {
+      "content": "行政院"
+    },
+    {
+      "content": "aws 當機"
+    },
+    {
+      "content": "thời tiết ngày mai"
+    },
+    {
+      "content": "10/21"
+    },
+    {
+      "content": "gd演唱會"
+    },
+    {
+      "content": "博愛醫院"
+    },
+    {
+      "content": "夏宇禾"
+    },
+    {
+      "content": "npb"
+    },
+    {
+      "content": "九孔"
+    },
+    {
+      "content": "台北市長"
+    },
+    {
+      "content": "lulu 陳漢典"
+    },
+    {
+      "content": "aws outage"
+    },
+    {
+      "content": "韋禮加"
+    },
+    {
+      "content": "達孝太"
+    },
+    {
+      "content": "處置股"
     },
     {
       "content": "美洲蟑螂"
     },
     {
-      "content": "docker"
-    },
-    {
-      "content": "越南"
-    },
-    {
-      "content": "王丹"
-    },
-    {
       "content": "中央"
+    },
+    {
+      "content": "signal"
     }
   ]
 }
