@@ -1,5 +1,5 @@
 {
-  "updated": "2025-10-21T13:44:19.594Z",
+  "updated": "2025-10-21T13:55:20.920Z",
   "trends": [
     {
       "content": "中華職棒"
@@ -14,7 +14,10 @@
       "content": "dazn"
     },
     {
-      "content": "棒球"
+      "content": "中職冠軍賽"
+    },
+    {
+      "content": "六合彩"
     },
     {
       "content": "cuaca besok"
@@ -24,9 +27,6 @@
     },
     {
       "content": "何品室融"
-    },
-    {
-      "content": "強風警報"
     },
     {
       "content": "金城武當兵"
@@ -41,10 +41,16 @@
       "content": "農糧署"
     },
     {
+      "content": "台南捷運"
+    },
+    {
       "content": "ステラソラ"
     },
     {
-      "content": "台南捷運"
+      "content": "職棒總冠軍賽"
+    },
+    {
+      "content": "強風警報"
     },
     {
       "content": "警報"
@@ -59,22 +65,16 @@
       "content": "台北市政府"
     },
     {
-      "content": "林信義"
-    },
-    {
       "content": "韓佳乙"
-    },
-    {
-      "content": "莊昕諺"
     },
     {
       "content": "屏東100碗"
     },
     {
-      "content": "行政院"
+      "content": "莊昕諺"
     },
     {
-      "content": "中華職棒冠軍賽"
+      "content": "行政院"
     }
   ]
 }
