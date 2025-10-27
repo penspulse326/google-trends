@@ -1,14 +1,20 @@
 {
-  "updated": "2025-10-27T22:30:22.720Z",
+  "updated": "2025-10-27T22:47:19.040Z",
   "trends": [
     {
-      "content": "今天天氣"
+      "content": "天氣預報"
+    },
+    {
+      "content": "thời tiết"
+    },
+    {
+      "content": "台灣運彩"
     },
     {
       "content": "運彩"
     },
     {
-      "content": "台灣彩券"
+      "content": "新竹天氣"
     }
   ]
 }
