@@ -1,23 +1,47 @@
 {
-  "updated": "2025-11-06T22:47:56.986Z",
+  "updated": "2025-11-06T23:27:20.827Z",
   "trends": [
     {
       "content": "美股"
     },
     {
-      "content": "道瓊指數"
+      "content": "颱風"
+    },
+    {
+      "content": "美股指數"
     },
     {
       "content": "台股夜盤"
     },
     {
-      "content": "颱風動態"
+      "content": "台積電adr"
     },
     {
       "content": "tesla stock"
     },
     {
+      "content": "nvda stock"
+    },
+    {
       "content": "特斯拉股價"
+    },
+    {
+      "content": "tsla stock"
+    },
+    {
+      "content": "鉅亨網"
+    },
+    {
+      "content": "台指夜盤"
+    },
+    {
+      "content": "tsm stock"
+    },
+    {
+      "content": "美超微股價"
+    },
+    {
+      "content": "voo"
     },
     {
       "content": "nvidia 股價"
@@ -26,13 +50,10 @@
       "content": "tsm"
     },
     {
-      "content": "tsla"
-    },
-    {
-      "content": "nvda stock"
-    },
-    {
       "content": "那斯達克指數"
+    },
+    {
+      "content": "mu stock"
     },
     {
       "content": "費城半導體"
