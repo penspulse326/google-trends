@@ -1,5 +1,5 @@
 {
-  "updated": "2025-11-06T23:27:20.827Z",
+  "updated": "2025-11-06T23:47:28.730Z",
   "trends": [
     {
       "content": "美股"
@@ -8,19 +8,28 @@
       "content": "颱風"
     },
     {
-      "content": "美股指數"
-    },
-    {
       "content": "台股夜盤"
     },
     {
-      "content": "台積電adr"
-    },
-    {
-      "content": "tesla stock"
+      "content": "tsla"
     },
     {
       "content": "nvda stock"
+    },
+    {
+      "content": "台指夜盤"
+    },
+    {
+      "content": "美債殖利率"
+    },
+    {
+      "content": "gta6"
+    },
+    {
+      "content": "豬肉解封"
+    },
+    {
+      "content": "台積電adr"
     },
     {
       "content": "特斯拉股價"
@@ -29,34 +38,31 @@
       "content": "tsla stock"
     },
     {
-      "content": "鉅亨網"
-    },
-    {
-      "content": "台指夜盤"
-    },
-    {
       "content": "tsm stock"
-    },
-    {
-      "content": "美超微股價"
-    },
-    {
-      "content": "voo"
     },
     {
       "content": "nvidia 股價"
     },
     {
-      "content": "tsm"
+      "content": "費城半導體"
     },
     {
-      "content": "那斯達克指數"
+      "content": "美超微股價"
     },
     {
       "content": "mu stock"
     },
     {
-      "content": "費城半導體"
+      "content": "那斯達克指數"
+    },
+    {
+      "content": "tsm"
+    },
+    {
+      "content": "威力彩開獎"
+    },
+    {
+      "content": "voo"
     }
   ]
 }
