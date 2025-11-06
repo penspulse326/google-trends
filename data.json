@@ -1,17 +1,41 @@
 {
-  "updated": "2025-11-06T21:46:52.777Z",
+  "updated": "2025-11-06T22:47:56.986Z",
   "trends": [
     {
       "content": "美股"
-    },
-    {
-      "content": "歐聯"
     },
     {
       "content": "道瓊指數"
     },
     {
       "content": "台股夜盤"
+    },
+    {
+      "content": "颱風動態"
+    },
+    {
+      "content": "tesla stock"
+    },
+    {
+      "content": "特斯拉股價"
+    },
+    {
+      "content": "nvidia 股價"
+    },
+    {
+      "content": "tsm"
+    },
+    {
+      "content": "tsla"
+    },
+    {
+      "content": "nvda stock"
+    },
+    {
+      "content": "那斯達克指數"
+    },
+    {
+      "content": "費城半導體"
     }
   ]
 }
