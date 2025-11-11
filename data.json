@@ -1,23 +1,38 @@
 {
-  "updated": "2025-11-11T22:47:22.110Z",
+  "updated": "2025-11-11T23:27:36.210Z",
   "trends": [
     {
-      "content": "地震"
+      "content": "氣象"
     },
     {
       "content": "thời tiết"
     },
     {
+      "content": "地震"
+    },
+    {
+      "content": "weather"
+    },
+    {
+      "content": "今天有放颱風假嗎"
+    },
+    {
+      "content": "沈伯洋"
+    },
+    {
       "content": "地震速報"
     },
     {
-      "content": "普發一萬領取"
+      "content": "火車停駛"
+    },
+    {
+      "content": "台湾 台風"
+    },
+    {
+      "content": "全民普發一萬"
     },
     {
       "content": "郵局"
-    },
-    {
-      "content": "台鐵"
     }
   ]
 }
