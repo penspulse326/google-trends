@@ -1,5 +1,5 @@
 {
-  "updated": "2025-11-11T21:47:28.157Z",
+  "updated": "2025-11-11T22:32:08.273Z",
   "trends": [
     {
       "content": "地震"
@@ -8,7 +8,16 @@
       "content": "地震速報"
     },
     {
+      "content": "thời tiết"
+    },
+    {
       "content": "普發一萬領取"
+    },
+    {
+      "content": "郵局"
+    },
+    {
+      "content": "台風動態"
     }
   ]
 }
