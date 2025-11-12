@@ -1,6 +1,15 @@
 {
-  "updated": "2025-11-12T22:47:39.594Z",
+  "updated": "2025-11-12T23:28:41.478Z",
   "trends": [
+    {
+      "content": "天氣"
+    },
+    {
+      "content": "thời tiết"
+    },
+    {
+      "content": "weather"
+    },
     {
       "content": "揚尼克·辛納"
     },
@@ -8,7 +17,19 @@
       "content": "高雄天氣"
     },
     {
-      "content": "thời tiết"
+      "content": "steam machine"
+    },
+    {
+      "content": "氣溫"
+    },
+    {
+      "content": "下雨"
+    },
+    {
+      "content": "桃園天氣"
+    },
+    {
+      "content": "彰化天氣"
     },
     {
       "content": "費城半導體"
