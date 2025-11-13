@@ -1,29 +1,32 @@
 {
-  "updated": "2025-11-13T21:47:06.195Z",
+  "updated": "2025-11-13T22:32:10.944Z",
   "trends": [
     {
       "content": "美股"
     },
     {
+      "content": "今天天氣"
+    },
+    {
       "content": "比特幣"
     },
     {
-      "content": "美國"
+      "content": "道瓊工業平均指數"
     },
     {
-      "content": "btc"
+      "content": "比特幣價格"
+    },
+    {
+      "content": "一週天氣"
+    },
+    {
+      "content": "539開獎號碼"
     },
     {
       "content": "vix"
     },
     {
-      "content": "棒球yt小哥"
-    },
-    {
-      "content": "台積電夜盤"
-    },
-    {
-      "content": "特斯拉股價"
+      "content": "美國"
     }
   ]
 }
