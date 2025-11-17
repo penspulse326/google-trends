@@ -1,8 +1,23 @@
 {
-  "updated": "2025-11-17T22:48:41.119Z",
+  "updated": "2025-11-17T23:29:06.624Z",
   "trends": [
     {
-      "content": "道瓊指數"
+      "content": "天氣"
+    },
+    {
+      "content": "thời tiết"
+    },
+    {
+      "content": "美股"
+    },
+    {
+      "content": "夜盤"
+    },
+    {
+      "content": "美光"
+    },
+    {
+      "content": "tsla"
     },
     {
       "content": "費城半導體指數"
@@ -11,22 +26,22 @@
       "content": "威力彩開獎"
     },
     {
-      "content": "美光"
-    },
-    {
-      "content": "比特幣"
-    },
-    {
       "content": "台指期夜盤"
+    },
+    {
+      "content": "比特幣價格"
+    },
+    {
+      "content": "tsm stock"
+    },
+    {
+      "content": "s&p 500"
     },
     {
       "content": "那斯達克指數"
     },
     {
       "content": "vix指數"
-    },
-    {
-      "content": "ai"
     }
   ]
 }
