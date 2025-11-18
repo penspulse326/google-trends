@@ -1,11 +1,11 @@
 {
-  "updated": "2025-11-18T14:52:05.843Z",
+  "updated": "2025-11-18T15:35:14.676Z",
   "trends": [
     {
-      "content": "cloudflare"
+      "content": "cloudflare error"
     },
     {
-      "content": "請解除封鎖 challenges.cloudflare.com 以繼續。"
+      "content": "請解除封鎖 challenges.cloudflare.com 以繼續"
     },
     {
       "content": "riot"
@@ -14,67 +14,67 @@
       "content": "lol"
     },
     {
+      "content": "cdn"
+    },
+    {
       "content": "海底電纜"
     },
     {
-      "content": "san jose"
+      "content": "aion 2"
+    },
+    {
+      "content": "gemini"
     },
     {
       "content": "chat"
     },
     {
-      "content": "ai"
-    },
-    {
-      "content": "cdn"
-    },
-    {
-      "content": "亞洲盃資格賽"
-    },
-    {
-      "content": "韓劇"
-    },
-    {
-      "content": "愛奇藝"
-    },
-    {
-      "content": "123"
-    },
-    {
-      "content": "valorant"
-    },
-    {
-      "content": "唐嫣"
-    },
-    {
-      "content": "territory 福特"
-    },
-    {
-      "content": "新聞女王2"
-    },
-    {
-      "content": "英雄聯盟巴哈"
-    },
-    {
-      "content": "美股開盤"
-    },
-    {
-      "content": "陸劇"
-    },
-    {
-      "content": "osu"
+      "content": "美國股市"
     },
     {
       "content": "體能之巔亞洲大挑戰"
     },
     {
-      "content": "海纜"
-    },
-    {
-      "content": "claude ai"
+      "content": "員林車禍"
     },
     {
       "content": "江子翠"
+    },
+    {
+      "content": "cloud"
+    },
+    {
+      "content": "唐嫣"
+    },
+    {
+      "content": "anthropic"
+    },
+    {
+      "content": "qqq"
+    },
+    {
+      "content": "nvda 財報"
+    },
+    {
+      "content": "san jose"
+    },
+    {
+      "content": "voo"
+    },
+    {
+      "content": "木村拓哉"
+    },
+    {
+      "content": "vix"
+    },
+    {
+      "content": "ai"
+    },
+    {
+      "content": "nc"
+    },
+    {
+      "content": "韓劇"
     }
   ]
 }
