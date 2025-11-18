@@ -1,5 +1,5 @@
 {
-  "updated": "2025-11-18T16:43:23.970Z",
+  "updated": "2025-11-18T16:57:49.817Z",
   "trends": [
     {
       "content": "網路當機"
@@ -11,34 +11,28 @@
       "content": "cloudflare stock"
     },
     {
-      "content": "gemini"
+      "content": "gemini 3"
     },
     {
       "content": "木村拓哉"
     },
     {
-      "content": "cdn"
-    },
-    {
       "content": "體能之巔亞洲大挑戰"
-    },
-    {
-      "content": "nc"
     },
     {
       "content": "enhypen"
     },
     {
-      "content": "恐慌指數"
+      "content": "nc"
     },
     {
       "content": "anthropic"
     },
     {
-      "content": "nvidia"
+      "content": "恐慌指數"
     },
     {
-      "content": "ai"
+      "content": "nvidia"
     },
     {
       "content": "openai"
@@ -59,22 +53,28 @@
       "content": "江子翠"
     },
     {
-      "content": "nvda"
+      "content": "英雄聯盟巴哈"
     },
     {
       "content": "cloud"
     },
     {
-      "content": "英雄聯盟巴哈"
+      "content": "nvda"
     },
     {
-      "content": "qqq"
+      "content": "osu"
     },
     {
       "content": "新聞女王2"
     },
     {
-      "content": "osu"
+      "content": "陸劇"
+    },
+    {
+      "content": "qqq"
+    },
+    {
+      "content": "海纜"
     }
   ]
 }
