@@ -1,5 +1,5 @@
 {
-  "updated": "2025-11-18T17:32:24.557Z",
+  "updated": "2025-11-18T17:49:08.039Z",
   "trends": [
     {
       "content": "gemini 3"
@@ -14,37 +14,31 @@
       "content": "ncsoft"
     },
     {
-      "content": "cloudflare 美股"
-    },
-    {
       "content": "pltr"
-    },
-    {
-      "content": "anthropic"
-    },
-    {
-      "content": "nvda 財報"
-    },
-    {
-      "content": "反骨"
     },
     {
       "content": "nc"
     },
     {
-      "content": "down detector"
+      "content": "anthropic"
+    },
+    {
+      "content": "反骨"
+    },
+    {
+      "content": "網站癱瘓"
+    },
+    {
+      "content": "uber"
+    },
+    {
+      "content": "nvda 財報"
     },
     {
       "content": "nvidia"
     },
     {
       "content": "恐慌指數"
-    },
-    {
-      "content": "美股開盤"
-    },
-    {
-      "content": "唐嫣"
     },
     {
       "content": "cloudflare 股票"
@@ -65,9 +59,6 @@
       "content": "got"
     },
     {
-      "content": "open ai"
-    },
-    {
       "content": "員林"
     },
     {
@@ -75,6 +66,15 @@
     },
     {
       "content": "riot games"
+    },
+    {
+      "content": "spy"
+    },
+    {
+      "content": "ddos"
+    },
+    {
+      "content": "line tv"
     }
   ]
 }
