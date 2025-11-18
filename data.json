@@ -1,59 +1,56 @@
 {
-  "updated": "2025-11-18T15:35:14.676Z",
+  "updated": "2025-11-18T15:52:06.493Z",
   "trends": [
     {
-      "content": "cloudflare error"
+      "content": "cloudfare"
     },
     {
-      "content": "請解除封鎖 challenges.cloudflare.com 以繼續"
-    },
-    {
-      "content": "riot"
-    },
-    {
-      "content": "lol"
-    },
-    {
-      "content": "cdn"
-    },
-    {
-      "content": "海底電纜"
+      "content": "網路當機"
     },
     {
       "content": "aion 2"
     },
     {
-      "content": "gemini"
+      "content": "cdn"
     },
     {
-      "content": "chat"
-    },
-    {
-      "content": "美國股市"
-    },
-    {
-      "content": "體能之巔亞洲大挑戰"
-    },
-    {
-      "content": "員林車禍"
-    },
-    {
-      "content": "江子翠"
-    },
-    {
-      "content": "cloud"
-    },
-    {
-      "content": "唐嫣"
+      "content": "英雄聯盟"
     },
     {
       "content": "anthropic"
     },
     {
-      "content": "qqq"
+      "content": "體能之巔亞洲大挑戰"
     },
     {
-      "content": "nvda 財報"
+      "content": "nc"
+    },
+    {
+      "content": "恐慌指數"
+    },
+    {
+      "content": "員林車禍"
+    },
+    {
+      "content": "ncsoft"
+    },
+    {
+      "content": "木村拓哉"
+    },
+    {
+      "content": "nvda"
+    },
+    {
+      "content": "海底電纜"
+    },
+    {
+      "content": "chat"
+    },
+    {
+      "content": "江子翠"
+    },
+    {
+      "content": "nvidia"
     },
     {
       "content": "san jose"
@@ -62,19 +59,22 @@
       "content": "voo"
     },
     {
-      "content": "木村拓哉"
-    },
-    {
-      "content": "vix"
+      "content": "qqq"
     },
     {
       "content": "ai"
     },
     {
-      "content": "nc"
+      "content": "韓劇"
     },
     {
-      "content": "韓劇"
+      "content": "美國股市"
+    },
+    {
+      "content": "愛奇藝"
+    },
+    {
+      "content": "valorant"
     }
   ]
 }
