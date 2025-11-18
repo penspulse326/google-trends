@@ -1,11 +1,8 @@
 {
-  "updated": "2025-11-18T23:27:58.718Z",
+  "updated": "2025-11-18T23:47:26.863Z",
   "trends": [
     {
       "content": "天氣"
-    },
-    {
-      "content": "美股"
     },
     {
       "content": "weather"
@@ -14,22 +11,31 @@
       "content": "thời tiết"
     },
     {
-      "content": "台指期夜盤"
-    },
-    {
-      "content": "台南天氣"
+      "content": "美股"
     },
     {
       "content": "輝達"
     },
     {
-      "content": "美股即時"
+      "content": "台南天氣"
+    },
+    {
+      "content": "台股夜盤"
+    },
+    {
+      "content": "天气"
     },
     {
       "content": "nvidia stock"
     },
     {
+      "content": "美股即時"
+    },
+    {
       "content": "世界盃資格賽"
+    },
+    {
+      "content": "台指期"
     },
     {
       "content": "費城半導體指數"
