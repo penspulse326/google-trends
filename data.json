@@ -1,56 +1,62 @@
 {
-  "updated": "2025-11-20T22:46:54.919Z",
+  "updated": "2025-11-20T23:28:36.071Z",
   "trends": [
     {
-      "content": "美股"
+      "content": "天氣"
     },
     {
-      "content": "美股大跌"
+      "content": "美股"
     },
     {
       "content": "台指期夜盤"
     },
     {
-      "content": "今天天氣"
+      "content": "美國股市"
     },
     {
-      "content": "地震"
-    },
-    {
-      "content": "道瓊指數"
-    },
-    {
-      "content": "vix指數"
-    },
-    {
-      "content": "sports"
-    },
-    {
-      "content": "weather"
-    },
-    {
-      "content": "tsm"
-    },
-    {
-      "content": "美股即時新聞"
-    },
-    {
-      "content": "威力彩"
-    },
-    {
-      "content": "費城半導體指數"
+      "content": "台股夜盤"
     },
     {
       "content": "台指期"
     },
     {
+      "content": "sports"
+    },
+    {
+      "content": "地震"
+    },
+    {
+      "content": "vix指數"
+    },
+    {
+      "content": "威力彩"
+    },
+    {
+      "content": "那斯達克指數"
+    },
+    {
+      "content": "tsm stock"
+    },
+    {
+      "content": "融資餘額"
+    },
+    {
       "content": "地震速報"
+    },
+    {
+      "content": "美元指數"
+    },
+    {
+      "content": "tsm"
+    },
+    {
+      "content": "國際金融"
     },
     {
       "content": "qqq"
     },
     {
-      "content": "那斯達克指數"
+      "content": "費城半導體指數"
     }
   ]
 }
