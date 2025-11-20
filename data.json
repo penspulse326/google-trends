@@ -1,23 +1,41 @@
 {
-  "updated": "2025-11-20T21:47:27.172Z",
+  "updated": "2025-11-20T22:29:55.261Z",
   "trends": [
     {
       "content": "美股"
     },
     {
+      "content": "台指期夜盤"
+    },
+    {
+      "content": "美國股市"
+    },
+    {
       "content": "地震"
     },
     {
-      "content": "費半指數"
+      "content": "sports"
+    },
+    {
+      "content": "威力彩"
+    },
+    {
+      "content": "今天天氣"
     },
     {
       "content": "美股即時新聞"
     },
     {
+      "content": "tsm"
+    },
+    {
+      "content": "台指期"
+    },
+    {
       "content": "地震速報"
     },
     {
-      "content": "比特幣走勢"
+      "content": "qqq"
     }
   ]
 }
