@@ -1,11 +1,11 @@
 {
-  "updated": "2025-11-20T23:28:36.071Z",
+  "updated": "2025-11-20T23:47:09.521Z",
   "trends": [
     {
-      "content": "天氣"
+      "content": "美股"
     },
     {
-      "content": "美股"
+      "content": "天氣"
     },
     {
       "content": "台指期夜盤"
@@ -17,16 +17,22 @@
       "content": "台股夜盤"
     },
     {
-      "content": "台指期"
+      "content": "sports"
     },
     {
-      "content": "sports"
+      "content": "vix指數"
     },
     {
       "content": "地震"
     },
     {
-      "content": "vix指數"
+      "content": "融資餘額"
+    },
+    {
+      "content": "tsm stock"
+    },
+    {
+      "content": "地震速報"
     },
     {
       "content": "威力彩"
@@ -35,28 +41,16 @@
       "content": "那斯達克指數"
     },
     {
-      "content": "tsm stock"
-    },
-    {
-      "content": "融資餘額"
-    },
-    {
-      "content": "地震速報"
+      "content": "tsm"
     },
     {
       "content": "美元指數"
-    },
-    {
-      "content": "tsm"
     },
     {
       "content": "國際金融"
     },
     {
       "content": "qqq"
-    },
-    {
-      "content": "費城半導體指數"
     }
   ]
 }
