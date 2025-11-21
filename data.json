@@ -1,14 +1,17 @@
 {
-  "updated": "2025-11-21T21:48:01.634Z",
+  "updated": "2025-11-21T22:31:49.302Z",
   "trends": [
     {
-      "content": "美股指數"
+      "content": "道瓊指數"
+    },
+    {
+      "content": "美光股價"
+    },
+    {
+      "content": "台積電adr"
     },
     {
       "content": "德甲"
-    },
-    {
-      "content": "烏克蘭"
     }
   ]
 }
