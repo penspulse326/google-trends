@@ -1,41 +1,35 @@
 {
-  "updated": "2025-11-25T17:33:30.434Z",
+  "updated": "2025-11-25T17:49:44.046Z",
   "trends": [
-    {
-      "content": "暴君"
-    },
-    {
-      "content": "全家便利商店"
-    },
     {
       "content": "陳百祥"
     },
     {
-      "content": "amazon"
+      "content": "暴君"
     },
     {
       "content": "goog"
     },
     {
-      "content": "amd stock"
-    },
-    {
-      "content": "怪奇物語第五季"
-    },
-    {
       "content": "ppi"
+    },
+    {
+      "content": "amd"
+    },
+    {
+      "content": "全家便利商店"
     },
     {
       "content": "費半"
     },
     {
-      "content": "meta stock"
-    },
-    {
       "content": "goog stock"
     },
     {
-      "content": "google tpu"
+      "content": "meta stock"
+    },
+    {
+      "content": "amazon"
     },
     {
       "content": "00757"
@@ -50,10 +44,7 @@
       "content": "alphabet 股價"
     },
     {
-      "content": "googl"
-    },
-    {
-      "content": "均一"
+      "content": "google"
     }
   ]
 }
