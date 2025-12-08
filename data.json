@@ -1,11 +1,14 @@
 {
-  "updated": "2025-12-08T17:49:57.013Z",
+  "updated": "2025-12-08T18:46:21.303Z",
   "trends": [
     {
-      "content": "日本地震"
+      "content": "日本海嘯"
     },
     {
-      "content": "nhk"
+      "content": "李燕"
+    },
+    {
+      "content": "柯震東"
     },
     {
       "content": "日本地震速報"
@@ -14,28 +17,16 @@
       "content": "japan earthquake"
     },
     {
-      "content": "ios 26.2"
-    },
-    {
-      "content": "李燕"
-    },
-    {
       "content": "范瑋琪"
-    },
-    {
-      "content": "柯震東"
     },
     {
       "content": "金高銀"
     },
     {
-      "content": "卡利消"
+      "content": "東京"
     },
     {
       "content": "仙台"
-    },
-    {
-      "content": "東京"
     }
   ]
 }
