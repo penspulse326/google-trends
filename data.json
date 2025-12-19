@@ -1,8 +1,8 @@
 {
-  "updated": "2025-12-19T15:33:59.361Z",
+  "updated": "2025-12-19T15:51:50.254Z",
   "trends": [
     {
-      "content": "台北殺人"
+      "content": "ait"
     },
     {
       "content": "taipei"
@@ -11,10 +11,13 @@
       "content": "cnn"
     },
     {
+      "content": "全民安全指引"
+    },
+    {
       "content": "taiwan news"
     },
     {
-      "content": "全民安全指引"
+      "content": "今日新聞"
     },
     {
       "content": "金多美"
@@ -29,34 +32,28 @@
       "content": "foxtron"
     },
     {
+      "content": "善導寺捷運站"
+    },
+    {
       "content": "賴清德彈劾案"
-    },
-    {
-      "content": "郭台銘"
-    },
-    {
-      "content": "thời tiết ngày mai"
-    },
-    {
-      "content": "徐懷鈺"
     },
     {
       "content": "張捷"
     },
     {
-      "content": "奇摩新聞"
+      "content": "thời tiết ngày mai"
+    },
+    {
+      "content": "nhk"
+    },
+    {
+      "content": "徐懷鈺"
     },
     {
       "content": "判決書"
     },
     {
-      "content": "ettoday新聞雲"
-    },
-    {
       "content": "布朗大學"
-    },
-    {
-      "content": "nhk"
     }
   ]
 }
