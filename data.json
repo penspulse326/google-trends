@@ -1,14 +1,8 @@
 {
-  "updated": "2025-12-19T13:54:27.001Z",
+  "updated": "2025-12-19T14:35:35.883Z",
   "trends": [
     {
       "content": "張文"
-    },
-    {
-      "content": "新聞"
-    },
-    {
-      "content": "鴻華先進"
     },
     {
       "content": "yahoo"
@@ -20,19 +14,7 @@
       "content": "ocha"
     },
     {
-      "content": "即時新聞"
-    },
-    {
-      "content": "家樂福"
-    },
-    {
       "content": "taipei"
-    },
-    {
-      "content": "徐懷鈺"
-    },
-    {
-      "content": "news"
     },
     {
       "content": "taiwan news"
@@ -41,40 +23,58 @@
       "content": "cnn"
     },
     {
-      "content": "yahoo新聞"
+      "content": "金多美"
     },
     {
       "content": "kbs 歌謠大祝祭"
     },
     {
-      "content": "tvbs"
-    },
-    {
-      "content": "bbc"
-    },
-    {
-      "content": "金多美"
+      "content": "taiwan"
     },
     {
       "content": "foxtron"
     },
     {
-      "content": "台北馬拉松2025"
+      "content": "ait"
     },
     {
-      "content": "今日新聞"
+      "content": "news"
     },
     {
-      "content": "taiwan"
+      "content": "yahoo新聞"
     },
     {
-      "content": "台北市"
+      "content": "tvbs"
+    },
+    {
+      "content": "thời tiết ngày mai"
+    },
+    {
+      "content": "bbc"
+    },
+    {
+      "content": "徐懷鈺"
+    },
+    {
+      "content": "gta"
+    },
+    {
+      "content": "奇摩新聞"
+    },
+    {
+      "content": "taipei main station"
     },
     {
       "content": "郭台銘"
     },
     {
-      "content": "taipei main station"
+      "content": "新光三越"
+    },
+    {
+      "content": "判決書"
+    },
+    {
+      "content": "布朗大學"
     }
   ]
 }
