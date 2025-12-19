@@ -1,5 +1,5 @@
 {
-  "updated": "2025-12-19T13:44:08.181Z",
+  "updated": "2025-12-19T13:54:27.001Z",
   "trends": [
     {
       "content": "張文"
@@ -14,16 +14,13 @@
       "content": "yahoo"
     },
     {
-      "content": "ocha"
-    },
-    {
       "content": "小橘書"
     },
     {
-      "content": "即時新聞"
+      "content": "ocha"
     },
     {
-      "content": "ettoday"
+      "content": "即時新聞"
     },
     {
       "content": "家樂福"
@@ -44,28 +41,16 @@
       "content": "cnn"
     },
     {
-      "content": "花蓮火災"
-    },
-    {
-      "content": "tvbs"
-    },
-    {
       "content": "yahoo新聞"
     },
     {
       "content": "kbs 歌謠大祝祭"
     },
     {
-      "content": "thời tiết ngày mai"
+      "content": "tvbs"
     },
     {
       "content": "bbc"
-    },
-    {
-      "content": "gta"
-    },
-    {
-      "content": "台北馬拉松2025"
     },
     {
       "content": "金多美"
@@ -74,7 +59,22 @@
       "content": "foxtron"
     },
     {
+      "content": "台北馬拉松2025"
+    },
+    {
+      "content": "今日新聞"
+    },
+    {
       "content": "taiwan"
+    },
+    {
+      "content": "台北市"
+    },
+    {
+      "content": "郭台銘"
+    },
+    {
+      "content": "taipei main station"
     }
   ]
 }
