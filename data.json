@@ -1,14 +1,11 @@
 {
-  "updated": "2025-12-19T14:35:35.883Z",
+  "updated": "2025-12-19T14:53:18.761Z",
   "trends": [
     {
       "content": "張文"
     },
     {
       "content": "yahoo"
-    },
-    {
-      "content": "小橘書"
     },
     {
       "content": "ocha"
@@ -23,28 +20,28 @@
       "content": "cnn"
     },
     {
-      "content": "金多美"
-    },
-    {
-      "content": "kbs 歌謠大祝祭"
-    },
-    {
-      "content": "taiwan"
-    },
-    {
-      "content": "foxtron"
-    },
-    {
-      "content": "ait"
+      "content": "yahoo新聞"
     },
     {
       "content": "news"
     },
     {
-      "content": "yahoo新聞"
+      "content": "金多美"
     },
     {
-      "content": "tvbs"
+      "content": "taiwan"
+    },
+    {
+      "content": "ait"
+    },
+    {
+      "content": "foxtron"
+    },
+    {
+      "content": "kbs 歌謠大祝祭"
+    },
+    {
+      "content": "gta"
     },
     {
       "content": "thời tiết ngày mai"
@@ -53,28 +50,31 @@
       "content": "bbc"
     },
     {
+      "content": "張捷"
+    },
+    {
       "content": "徐懷鈺"
     },
     {
-      "content": "gta"
+      "content": "聯屬彈劾"
     },
     {
-      "content": "奇摩新聞"
-    },
-    {
-      "content": "taipei main station"
+      "content": "新光三越"
     },
     {
       "content": "郭台銘"
     },
     {
-      "content": "新光三越"
+      "content": "奇摩新聞"
     },
     {
       "content": "判決書"
     },
     {
       "content": "布朗大學"
+    },
+    {
+      "content": "nhk"
     }
   ]
 }
