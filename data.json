@@ -1,6 +1,12 @@
 {
-  "updated": "2026-01-03T19:47:21.199Z",
+  "updated": "2026-01-03T20:33:26.840Z",
   "trends": [
+    {
+      "content": "地震"
+    },
+    {
+      "content": "地震速報"
+    },
     {
       "content": "伯恩茅斯 對 兵工廠"
     },
@@ -11,19 +17,13 @@
       "content": "uss iwo jima"
     },
     {
-      "content": "習近平"
-    },
-    {
       "content": "輝夜姬"
     },
     {
-      "content": "成勳"
+      "content": "習近平"
     },
     {
-      "content": "瑞士大火"
-    },
-    {
-      "content": "wolves vs west ham"
+      "content": "硫磺島號"
     }
   ]
 }
