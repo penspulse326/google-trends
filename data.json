@@ -1,6 +1,9 @@
 {
-  "updated": "2026-01-05T09:46:39.238Z",
+  "updated": "2026-01-05T10:44:11.979Z",
   "trends": [
+    {
+      "content": "披薩指數"
+    },
     {
       "content": "晚安小雞"
     },
@@ -8,28 +11,34 @@
       "content": "東華大學"
     },
     {
-      "content": "披薩指數"
+      "content": "新民生戲院"
     },
     {
-      "content": "新青安"
-    },
-    {
-      "content": "鴻海營收"
-    },
-    {
-      "content": "載具"
+      "content": "洪榮宏"
     },
     {
       "content": "動力火車演唱會 2026"
     },
     {
-      "content": "新民生戲院"
+      "content": "三大法人"
+    },
+    {
+      "content": "新青安"
+    },
+    {
+      "content": "台新信用卡"
+    },
+    {
+      "content": "鴻海營收"
     },
     {
       "content": "海底電纜"
     },
     {
-      "content": "三大法人買賣超"
+      "content": "載具"
+    },
+    {
+      "content": "韓國海苔"
     },
     {
       "content": "租金補貼"
@@ -38,19 +47,7 @@
       "content": "台幣"
     },
     {
-      "content": "第一銀行"
-    },
-    {
-      "content": "韓國海苔"
-    },
-    {
-      "content": "茗香園冰室"
-    },
-    {
       "content": "最低薪資"
-    },
-    {
-      "content": "成勳"
     }
   ]
 }
