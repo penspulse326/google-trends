@@ -1,71 +1,71 @@
 {
-  "updated": "2026-01-21T15:47:42.796Z",
+  "updated": "2026-01-21T17:15:47.136Z",
   "trends": [
     {
-      "content": "明天的天氣"
+      "content": "yahoo"
+    },
+    {
+      "content": "唐從聖"
+    },
+    {
+      "content": "intc"
     },
     {
       "content": "美股"
     },
     {
-      "content": "奇摩"
-    },
-    {
-      "content": "美股指數"
-    },
-    {
-      "content": "yahoo股市"
-    },
-    {
-      "content": "宇智"
-    },
-    {
-      "content": "奇摩股市"
-    },
-    {
-      "content": "美股開盤"
-    },
-    {
-      "content": "mu"
-    },
-    {
-      "content": "股市"
-    },
-    {
-      "content": "美股即時"
-    },
-    {
-      "content": "yahoo finance"
-    },
-    {
-      "content": "intel"
+      "content": "orcl"
     },
     {
       "content": "00995a"
     },
     {
-      "content": "nasdaq"
+      "content": "奇摩"
     },
     {
-      "content": "費半"
+      "content": "yahoo股市"
     },
     {
-      "content": "國際金融"
+      "content": "美股指數"
     },
     {
-      "content": "韓天遇"
+      "content": "mu"
     },
     {
-      "content": "trump"
+      "content": "amd"
+    },
+    {
+      "content": "陳意涵"
+    },
+    {
+      "content": "美股開盤"
     },
     {
       "content": "戶田惠梨香"
     },
     {
-      "content": "thời tiết ngày mai"
+      "content": "美國股市"
     },
     {
-      "content": "vt"
+      "content": "美股即時"
+    },
+    {
+      "content": "英特爾"
+    },
+    {
+      "content": "nasdaq"
+    },
+    {
+      "content": "mu股價"
+    },
+    {
+      "content": "費半"
+    },
+    {
+      "content": "taco 交易"
+    },
+    {
+      "content": "國際金融"
     },
     {
       "content": "光環"
@@ -74,7 +74,7 @@
       "content": "oklo"
     },
     {
-      "content": "davos"
+      "content": "vt"
     }
   ]
 }
