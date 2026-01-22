@@ -1,8 +1,11 @@
 {
-  "updated": "2026-01-22T22:38:00.487Z",
+  "updated": "2026-01-22T22:54:26.664Z",
   "trends": [
     {
       "content": "美股"
+    },
+    {
+      "content": "道瓊指數"
     },
     {
       "content": "美光股價"
@@ -17,16 +20,25 @@
       "content": "黃金"
     },
     {
-      "content": "sandisk 股價"
-    },
-    {
-      "content": "英特爾股價"
-    },
-    {
       "content": "費城半導體指數"
     },
     {
+      "content": "intel"
+    },
+    {
+      "content": "nvidia 股價"
+    },
+    {
+      "content": "sandisk 股價"
+    },
+    {
+      "content": "intel 股價"
+    },
+    {
       "content": "mu stock"
+    },
+    {
+      "content": "特斯拉股價"
     },
     {
       "content": "台指期夜盤"
