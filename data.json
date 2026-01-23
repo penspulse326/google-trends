@@ -1,17 +1,20 @@
 {
-  "updated": "2026-01-23T23:32:17.982Z",
+  "updated": "2026-01-23T23:50:28.362Z",
   "trends": [
     {
       "content": "天氣預報"
     },
     {
+      "content": "台北天氣"
+    },
+    {
+      "content": "苗栗天氣"
+    },
+    {
       "content": "inter vs pisa"
     },
     {
-      "content": "宜蘭天氣"
-    },
-    {
-      "content": "天氣台北"
+      "content": "美元"
     },
     {
       "content": "英特爾股價"
