@@ -1,14 +1,14 @@
 {
-  "updated": "2026-01-26T18:53:32.972Z",
+  "updated": "2026-01-26T19:34:04.753Z",
   "trends": [
     {
+      "content": "地震"
+    },
+    {
+      "content": "地震速報"
+    },
+    {
       "content": "highguard"
-    },
-    {
-      "content": "airtag"
-    },
-    {
-      "content": "crwv"
     },
     {
       "content": "lol"
@@ -17,31 +17,10 @@
       "content": "英雄聯盟"
     },
     {
-      "content": "李永萍"
-    },
-    {
-      "content": "美光股價"
-    },
-    {
       "content": "riot"
     },
     {
-      "content": "slv"
-    },
-    {
-      "content": "sandisk 股價"
-    },
-    {
-      "content": "館長"
-    },
-    {
       "content": "白銀etf"
-    },
-    {
-      "content": "mu"
-    },
-    {
-      "content": "sndk"
     }
   ]
 }
