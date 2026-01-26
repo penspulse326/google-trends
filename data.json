@@ -1,6 +1,9 @@
 {
-  "updated": "2026-01-26T17:58:45.646Z",
+  "updated": "2026-01-26T18:53:32.972Z",
   "trends": [
+    {
+      "content": "highguard"
+    },
     {
       "content": "airtag"
     },
@@ -17,25 +20,16 @@
       "content": "李永萍"
     },
     {
-      "content": "台灣彩券"
-    },
-    {
-      "content": "mu股價"
-    },
-    {
       "content": "美光股價"
     },
     {
       "content": "riot"
     },
     {
-      "content": "sandisk 股價"
-    },
-    {
       "content": "slv"
     },
     {
-      "content": "25歲替代役"
+      "content": "sandisk 股價"
     },
     {
       "content": "館長"
@@ -44,7 +38,7 @@
       "content": "白銀etf"
     },
     {
-      "content": "精英"
+      "content": "mu"
     },
     {
       "content": "sndk"
