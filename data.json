@@ -1,20 +1,17 @@
 {
-  "updated": "2026-02-04T17:29:43.477Z",
+  "updated": "2026-02-04T18:27:18.289Z",
   "trends": [
     {
-      "content": "陳宗彥"
-    },
-    {
       "content": "美股"
-    },
-    {
-      "content": "pltr"
     },
     {
       "content": "美光"
     },
     {
-      "content": "smci"
+      "content": "pltr"
+    },
+    {
+      "content": "vix"
     },
     {
       "content": "陳文茜"
@@ -23,25 +20,25 @@
       "content": "google財報"
     },
     {
-      "content": "vix"
+      "content": "smci"
+    },
+    {
+      "content": "費城半導體"
+    },
+    {
+      "content": "費半"
+    },
+    {
+      "content": "qqq"
+    },
+    {
+      "content": "台北國際動漫節"
     },
     {
       "content": "川普"
     },
     {
-      "content": "動漫展"
-    },
-    {
       "content": "陳楚河"
-    },
-    {
-      "content": "高敏敏"
-    },
-    {
-      "content": "瘦瘦針副作用"
-    },
-    {
-      "content": "nasdaq"
     },
     {
       "content": "閃迪"
@@ -50,10 +47,7 @@
       "content": "lumentum"
     },
     {
-      "content": "超人力霸王"
-    },
-    {
-      "content": "費半"
+      "content": "nasdaq"
     }
   ]
 }
