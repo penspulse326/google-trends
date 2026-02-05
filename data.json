@@ -1,20 +1,29 @@
 {
-  "updated": "2026-02-05T22:47:53.880Z",
+  "updated": "2026-02-05T23:36:27.927Z",
   "trends": [
     {
-      "content": "亞馬遜"
+      "content": "天氣預報"
+    },
+    {
+      "content": "amzn"
     },
     {
       "content": "台南天氣"
     },
     {
-      "content": "氣象預報"
+      "content": "亞馬遜"
     },
     {
-      "content": "費半指數"
+      "content": "年終獎金"
+    },
+    {
+      "content": "換新鈔時間"
     },
     {
       "content": "那斯達克指數"
+    },
+    {
+      "content": "費半指數"
     }
   ]
 }
