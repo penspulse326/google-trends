@@ -1,8 +1,11 @@
 {
-  "updated": "2026-02-08T22:46:12.123Z",
+  "updated": "2026-02-08T23:45:32.299Z",
   "trends": [
     {
       "content": "灰狼 對 快艇"
+    },
+    {
+      "content": "換新鈔時間"
     },
     {
       "content": "valencia vs madrid"
@@ -11,16 +14,13 @@
       "content": "valencia đấu với real madrid"
     },
     {
+      "content": "superbowl"
+    },
+    {
+      "content": "台股封關日"
+    },
+    {
       "content": "weather"
-    },
-    {
-      "content": "日本改選結果"
-    },
-    {
-      "content": "法甲"
-    },
-    {
-      "content": "西甲"
     }
   ]
 }
