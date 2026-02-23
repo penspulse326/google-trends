@@ -1,32 +1,41 @@
 {
-  "updated": "2026-02-23T23:20:07.273Z",
+  "updated": "2026-02-23T23:58:40.858Z",
   "trends": [
     {
       "content": "天氣"
     },
     {
-      "content": "美股新聞"
-    },
-    {
-      "content": "曼聯"
-    },
-    {
-      "content": "台積adr"
+      "content": "道瓊"
     },
     {
       "content": "拜天公供品"
     },
     {
-      "content": "mu"
-    },
-    {
-      "content": "新竹天氣"
+      "content": "曼聯"
     },
     {
       "content": "anthropic"
     },
     {
+      "content": "台灣運彩"
+    },
+    {
+      "content": "工商時報"
+    },
+    {
+      "content": "vix指數"
+    },
+    {
+      "content": "mu"
+    },
+    {
       "content": "英超"
+    },
+    {
+      "content": "新竹天氣"
+    },
+    {
+      "content": "台積電adr"
     },
     {
       "content": "比特幣價格"
