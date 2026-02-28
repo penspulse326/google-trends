@@ -1,11 +1,17 @@
 {
-  "updated": "2026-02-28T11:30:16.891Z",
+  "updated": "2026-02-28T11:49:50.788Z",
   "trends": [
+    {
+      "content": "巴林"
+    },
     {
       "content": "黃金"
     },
     {
-      "content": "鹿耳門直播"
+      "content": "鹿耳門煙火直播"
+    },
+    {
+      "content": "2pm"
     },
     {
       "content": "比特幣價格"
@@ -20,43 +26,34 @@
       "content": "中東戰爭"
     },
     {
-      "content": "bingo bingo 玩法"
-    },
-    {
       "content": "樂樂棒"
-    },
-    {
-      "content": "施振榮"
-    },
-    {
-      "content": "oisix 新潟"
     },
     {
       "content": "阿聯酋"
     },
     {
-      "content": "2pm"
-    },
-    {
       "content": "gold price"
     },
     {
-      "content": "bitcoin"
+      "content": "oisix 新潟"
     },
     {
-      "content": "以色列打伊朗"
-    },
-    {
-      "content": "劉基鴻"
-    },
-    {
-      "content": "bahrain"
+      "content": "cnn news"
     },
     {
       "content": "呂秀蓮"
     },
     {
-      "content": "cnn news"
+      "content": "wtt"
+    },
+    {
+      "content": "bitcoin"
+    },
+    {
+      "content": "bahrain"
+    },
+    {
+      "content": "施振榮"
     },
     {
       "content": "polymarket"
@@ -65,16 +62,19 @@
       "content": "宮崎機場"
     },
     {
-      "content": "教育部"
+      "content": "中埔煙火"
+    },
+    {
+      "content": "金凱瑞"
+    },
+    {
+      "content": "李小龍"
     },
     {
       "content": "台中燈會"
     },
     {
-      "content": "wtt"
-    },
-    {
-      "content": "熊熊"
+      "content": "味全龍火腿"
     }
   ]
 }
