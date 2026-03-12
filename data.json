@@ -1,14 +1,32 @@
 {
-  "updated": "2026-03-12T21:46:54.056Z",
+  "updated": "2026-03-12T22:43:57.140Z",
   "trends": [
+    {
+      "content": "台指期夜盤"
+    },
+    {
+      "content": "美國股市"
+    },
+    {
+      "content": "台股夜盤"
+    },
+    {
+      "content": "台積電夜盤"
+    },
     {
       "content": "歐聯"
     },
     {
-      "content": "john carpenter's toxic commando"
+      "content": "氣溫"
     },
     {
-      "content": "lv"
+      "content": "布蘭特原油價格"
+    },
+    {
+      "content": "美股即時"
+    },
+    {
+      "content": "國際股市"
     }
   ]
 }
