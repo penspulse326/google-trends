@@ -1,29 +1,35 @@
 {
-  "updated": "2026-03-12T23:00:30.720Z",
+  "updated": "2026-03-12T23:40:25.516Z",
   "trends": [
-    {
-      "content": "天氣"
-    },
     {
       "content": "台指期夜盤"
     },
     {
-      "content": "美國股市"
+      "content": "美股指數"
     },
     {
-      "content": "台積電夜盤"
+      "content": "布蘭特原油"
     },
     {
-      "content": "布蘭特原油價格"
+      "content": "揚尼克·辛納"
+    },
+    {
+      "content": "台指"
+    },
+    {
+      "content": "台期指夜盤"
     },
     {
       "content": "tsm stock"
     },
     {
+      "content": "美股即時"
+    },
+    {
       "content": "國際股市"
     },
     {
-      "content": "美股即時"
+      "content": "費城半導體指數"
     }
   ]
 }
