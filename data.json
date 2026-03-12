@@ -1,6 +1,9 @@
 {
-  "updated": "2026-03-12T22:43:57.140Z",
+  "updated": "2026-03-12T23:00:30.720Z",
   "trends": [
+    {
+      "content": "天氣"
+    },
     {
       "content": "台指期夜盤"
     },
@@ -8,25 +11,19 @@
       "content": "美國股市"
     },
     {
-      "content": "台股夜盤"
-    },
-    {
       "content": "台積電夜盤"
-    },
-    {
-      "content": "歐聯"
-    },
-    {
-      "content": "氣溫"
     },
     {
       "content": "布蘭特原油價格"
     },
     {
-      "content": "美股即時"
+      "content": "tsm stock"
     },
     {
       "content": "國際股市"
+    },
+    {
+      "content": "美股即時"
     }
   ]
 }
