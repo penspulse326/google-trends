@@ -1,6 +1,9 @@
 {
-  "updated": "2026-03-26T22:49:36.754Z",
+  "updated": "2026-03-26T23:47:06.246Z",
   "trends": [
+    {
+      "content": "黃蜂 對 尼克"
+    },
     {
       "content": "水庫水位"
     },
@@ -8,13 +11,31 @@
       "content": "美股大跌"
     },
     {
-      "content": "grok"
+      "content": "巴西 對 法國"
     },
     {
-      "content": "美股新聞"
+      "content": "義大利足球"
     },
     {
       "content": "衛星雲圖"
+    },
+    {
+      "content": "道奇"
+    },
+    {
+      "content": "grok"
+    },
+    {
+      "content": "邁阿密大師賽"
+    },
+    {
+      "content": "miami open"
+    },
+    {
+      "content": "記憶體"
+    },
+    {
+      "content": "vix指數"
     }
   ]
 }
