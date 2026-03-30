@@ -1,17 +1,14 @@
 {
-  "updated": "2026-03-30T19:39:11.031Z",
+  "updated": "2026-03-30T20:24:14.472Z",
   "trends": [
-    {
-      "content": "ba.3.2"
-    },
     {
       "content": "恐慌指數"
     },
     {
-      "content": "重慶"
+      "content": "ba.3.2"
     },
     {
-      "content": "愚人節"
+      "content": "vix"
     }
   ]
 }
