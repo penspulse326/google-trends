@@ -1,17 +1,20 @@
 {
-  "updated": "2026-03-31T22:51:22.747Z",
+  "updated": "2026-03-31T23:48:36.937Z",
   "trends": [
     {
-      "content": "義大利足球"
+      "content": "天氣"
     },
     {
-      "content": "世界盃資格賽"
+      "content": "魔術 對 太陽"
     },
     {
-      "content": "義大利"
+      "content": "波赫"
     },
     {
       "content": "水庫"
+    },
+    {
+      "content": "weather"
     },
     {
       "content": "美股大漲"
@@ -26,16 +29,25 @@
       "content": "牌照稅"
     },
     {
+      "content": "台灣大哥大"
+    },
+    {
+      "content": "美國伊朗"
+    },
+    {
+      "content": "原油價格"
+    },
+    {
+      "content": "颱風"
+    },
+    {
+      "content": "vix恐慌指數"
+    },
+    {
       "content": "台股夜盤指數"
     },
     {
       "content": "新聞"
-    },
-    {
-      "content": "友誼賽"
-    },
-    {
-      "content": "費半指數"
     }
   ]
 }
