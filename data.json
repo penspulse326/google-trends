@@ -1,8 +1,14 @@
 {
-  "updated": "2026-04-09T21:56:40.290Z",
+  "updated": "2026-04-09T22:59:31.804Z",
   "trends": [
     {
+      "content": "南亞 科技"
+    },
+    {
       "content": "s&p 500"
+    },
+    {
+      "content": "存摺"
     },
     {
       "content": "張凌赫"
@@ -14,19 +20,34 @@
       "content": "道瓊工業平均指數"
     },
     {
-      "content": "mu"
+      "content": "那斯達克綜合指數"
     },
     {
       "content": "nvda"
     },
     {
-      "content": "那斯達克綜合指數"
+      "content": "mu"
     },
     {
       "content": "vix指數"
     },
     {
-      "content": "booking"
+      "content": "潘迎紫"
+    },
+    {
+      "content": "家樂福"
+    },
+    {
+      "content": "amzn"
+    },
+    {
+      "content": "三星"
+    },
+    {
+      "content": "iphone"
+    },
+    {
+      "content": "sndk"
     }
   ]
 }
