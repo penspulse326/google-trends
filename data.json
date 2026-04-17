@@ -1,53 +1,44 @@
 {
-  "updated": "2026-04-17T17:06:33.998Z",
+  "updated": "2026-04-17T18:02:29.088Z",
   "trends": [
+    {
+      "content": "claude design"
+    },
     {
       "content": "東北 季風"
     },
     {
-      "content": "大甲媽gps"
-    },
-    {
-      "content": "claude design"
+      "content": "大甲媽直播"
     },
     {
       "content": "張柏芝"
     },
     {
-      "content": "金剛"
-    },
-    {
-      "content": "川上拓斗"
-    },
-    {
       "content": "田蕊妮"
-    },
-    {
-      "content": "華 邦 電"
-    },
-    {
-      "content": "lol"
-    },
-    {
-      "content": "魅影巨星"
-    },
-    {
-      "content": "森崴能源股份有限公司"
-    },
-    {
-      "content": "英雄聯盟"
-    },
-    {
-      "content": "光通訊"
-    },
-    {
-      "content": "柯文哲"
     },
     {
       "content": "mstr"
     },
     {
-      "content": "apple tv"
+      "content": "garret anderson"
+    },
+    {
+      "content": "墓乃伊"
+    },
+    {
+      "content": "金剛"
+    },
+    {
+      "content": "柯文哲"
+    },
+    {
+      "content": "魅影巨星"
+    },
+    {
+      "content": "曹格"
+    },
+    {
+      "content": "光通訊"
     },
     {
       "content": "荷 姆 茲 海峽"
@@ -56,13 +47,10 @@
       "content": "布蘭特原油"
     },
     {
-      "content": "唐納·川普"
-    },
-    {
       "content": "斯圖加特公開賽"
     },
     {
-      "content": "張若昀"
+      "content": "tsm adr"
     },
     {
       "content": "riot"
@@ -72,9 +60,6 @@
     },
     {
       "content": "msft"
-    },
-    {
-      "content": "采鈺"
     }
   ]
 }
