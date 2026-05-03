@@ -1,11 +1,8 @@
 {
-  "updated": "2026-05-03T15:04:26.002Z",
+  "updated": "2026-05-03T15:59:45.157Z",
   "trends": [
     {
       "content": "明天的天氣"
-    },
-    {
-      "content": "台鐵"
     },
     {
       "content": "公务员"
@@ -17,7 +14,13 @@
       "content": "台北鼠患"
     },
     {
-      "content": "鼠患"
+      "content": "烏克蘭"
+    },
+    {
+      "content": "颱風"
+    },
+    {
+      "content": "台鐵"
     },
     {
       "content": "朱孝天"
@@ -29,13 +32,16 @@
       "content": "曼聯"
     },
     {
+      "content": "manchester united"
+    },
+    {
       "content": "cuaca besok"
     },
     {
-      "content": "烏克蘭"
+      "content": "f1 邁阿密"
     },
     {
-      "content": "半導體"
+      "content": "sinner"
     },
     {
       "content": "聯 華 電子"
@@ -50,28 +56,13 @@
       "content": "許富凱"
     },
     {
-      "content": "朱育賢"
-    },
-    {
       "content": "月亮"
     },
     {
       "content": "優霸盃"
     },
     {
-      "content": "周正雄"
-    },
-    {
       "content": "내일 날씨"
-    },
-    {
-      "content": "貓"
-    },
-    {
-      "content": "吳俊宏"
-    },
-    {
-      "content": "世足"
     }
   ]
 }
