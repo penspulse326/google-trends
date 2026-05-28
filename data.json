@@ -1,29 +1,80 @@
 {
-  "updated": "2026-05-28T21:34:02.482Z",
+  "updated": "2026-05-28T23:01:07.265Z",
   "trends": [
     {
-      "content": "停電"
+      "content": "天氣"
     },
     {
-      "content": "opus 4.8"
+      "content": "天氣預報"
+    },
+    {
+      "content": "颱風假"
+    },
+    {
+      "content": "氣象"
     },
     {
       "content": "退休"
     },
     {
+      "content": "weather"
+    },
+    {
       "content": "s&p 500"
     },
     {
-      "content": "台北天氣"
+      "content": "spacex 概念 股"
     },
     {
-      "content": "川 普 台灣"
+      "content": "南山人壽"
     },
     {
-      "content": "南亞 科"
+      "content": "中 將"
     },
     {
-      "content": "台指期"
+      "content": "新聞"
+    },
+    {
+      "content": "台灣彩券"
+    },
+    {
+      "content": "玻璃 基板 概念 股"
+    },
+    {
+      "content": "基隆天氣"
+    },
+    {
+      "content": "dell"
+    },
+    {
+      "content": "陈盈洁"
+    },
+    {
+      "content": "博士 鴨 觀光 工廠"
+    },
+    {
+      "content": "水庫"
+    },
+    {
+      "content": "那斯達克綜合指數"
+    },
+    {
+      "content": "中央氣象署"
+    },
+    {
+      "content": "費城半導體指數"
+    },
+    {
+      "content": "停電"
+    },
+    {
+      "content": "鴻海"
+    },
+    {
+      "content": "日月光adr"
+    },
+    {
+      "content": "smci"
     }
   ]
 }
