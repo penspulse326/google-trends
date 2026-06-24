@@ -1,50 +1,80 @@
 {
-  "updated": "2026-06-24T22:39:06.995Z",
+  "updated": "2026-06-24T23:47:21.160Z",
   "trends": [
     {
+      "content": "天氣"
+    },
+    {
+      "content": "美光盤後"
+    },
+    {
       "content": "海"
-    },
-    {
-      "content": "內馬爾"
-    },
-    {
-      "content": "衛星雲圖"
-    },
-    {
-      "content": "波赫 對 卡達"
     },
     {
       "content": "奧斯汀·里夫斯"
     },
     {
-      "content": "umc"
-    },
-    {
-      "content": "機器人"
-    },
-    {
-      "content": "南韓"
+      "content": "內馬爾"
     },
     {
       "content": "台北天氣"
     },
     {
-      "content": "micron"
+      "content": "scotland vs brazil"
     },
     {
-      "content": "腎"
+      "content": "廢校"
+    },
+    {
+      "content": "weather"
+    },
+    {
+      "content": "南韓"
+    },
+    {
+      "content": "中天新聞台"
+    },
+    {
+      "content": "先進封裝"
+    },
+    {
+      "content": "資料中心"
+    },
+    {
+      "content": "海地摩洛哥"
+    },
+    {
+      "content": "維尼修斯·儒尼奧爾"
     },
     {
       "content": "巴西足球"
     },
     {
+      "content": "金 居"
+    },
+    {
+      "content": "umc"
+    },
+    {
+      "content": "波赫對卡達"
+    },
+    {
+      "content": "巴西 蘇格蘭"
+    },
+    {
+      "content": "墨西哥捷克"
+    },
+    {
+      "content": "機器人"
+    },
+    {
+      "content": "mu"
+    },
+    {
+      "content": "腎"
+    },
+    {
       "content": "納斯達克100指數"
-    },
-    {
-      "content": "台指期貨夜盤"
-    },
-    {
-      "content": "蘇格蘭"
     }
   ]
 }
