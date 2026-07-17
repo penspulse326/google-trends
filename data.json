@@ -1,38 +1,50 @@
 {
-  "updated": "2026-07-17T21:29:19.590Z",
+  "updated": "2026-07-17T22:28:44.414Z",
   "trends": [
     {
       "content": "大 樂 透"
     },
     {
-      "content": "台灣"
-    },
-    {
       "content": "中國"
     },
     {
-      "content": "沃 齊 尼 亞"
-    },
-    {
-      "content": "英雄聯盟"
+      "content": "費城半導體指數"
     },
     {
       "content": "鄭浩均"
     },
     {
+      "content": "台灣"
+    },
+    {
       "content": "奇摩新聞"
+    },
+    {
+      "content": "tsm"
+    },
+    {
+      "content": "s&p 500"
+    },
+    {
+      "content": "台積電夜盤"
+    },
+    {
+      "content": "nvda"
     },
     {
       "content": "法國英格蘭"
     },
     {
-      "content": "adr"
+      "content": "被動 元件"
+    },
+    {
+      "content": "spcx"
+    },
+    {
+      "content": "美光股價"
     },
     {
       "content": "fable 5"
-    },
-    {
-      "content": "mlb直播"
     }
   ]
 }
