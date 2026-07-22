@@ -1,38 +1,62 @@
 {
-  "updated": "2026-07-22T21:41:57.994Z",
+  "updated": "2026-07-22T22:39:09.399Z",
   "trends": [
-    {
-      "content": "goog"
-    },
     {
       "content": "退休"
     },
     {
-      "content": "交通部中央气象署"
+      "content": "google"
+    },
+    {
+      "content": "地震"
     },
     {
       "content": "財報"
     },
     {
+      "content": "特斯拉財報"
+    },
+    {
       "content": "毛利率"
-    },
-    {
-      "content": "tsla"
-    },
-    {
-      "content": "谷歌股價"
     },
     {
       "content": "aaoi"
     },
     {
-      "content": "外送"
+      "content": "spcx"
+    },
+    {
+      "content": "六氟化鎢"
+    },
+    {
+      "content": "nvda"
+    },
+    {
+      "content": "谷歌股價"
+    },
+    {
+      "content": "intc"
+    },
+    {
+      "content": "投手"
     },
     {
       "content": "友達光電"
     },
     {
-      "content": "mlb直播"
+      "content": "戰鬥機"
+    },
+    {
+      "content": "黃仁勳"
+    },
+    {
+      "content": "tsla"
+    },
+    {
+      "content": "半導體產業"
+    },
+    {
+      "content": "原油"
     }
   ]
 }
