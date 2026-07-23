@@ -1,11 +1,17 @@
 {
-  "updated": "2026-07-23T21:39:42.270Z",
+  "updated": "2026-07-23T22:36:03.029Z",
   "trends": [
+    {
+      "content": "intc"
+    },
     {
       "content": "s&p 500"
     },
     {
-      "content": "英特爾財報"
+      "content": "臺北 市長"
+    },
+    {
+      "content": "那斯達克綜合指數"
     },
     {
       "content": "簡舒培"
@@ -14,13 +20,13 @@
       "content": "趙少康"
     },
     {
-      "content": "intc"
+      "content": "英特爾財報"
     },
     {
-      "content": "那斯達克綜合指數"
+      "content": "道瓊指數"
     },
     {
-      "content": "spacex 股價"
+      "content": "nvda"
     }
   ]
 }
