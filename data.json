@@ -1,29 +1,32 @@
 {
-  "updated": "2026-07-29T22:36:43.935Z",
+  "updated": "2026-07-29T23:39:22.161Z",
   "trends": [
     {
-      "content": "勞動部"
-    },
-    {
-      "content": "川 普"
-    },
-    {
       "content": "返稅"
-    },
-    {
-      "content": "微軟財報"
-    },
-    {
-      "content": "美元"
     },
     {
       "content": "環球晶圓"
     },
     {
+      "content": "美元"
+    },
+    {
+      "content": "川 普"
+    },
+    {
+      "content": "msft"
+    },
+    {
       "content": "meta 財報"
     },
     {
+      "content": "散戶"
+    },
+    {
       "content": "meta"
+    },
+    {
+      "content": "日本"
     },
     {
       "content": "美股新聞"
@@ -32,22 +35,34 @@
       "content": "道瓊工業平均指數"
     },
     {
-      "content": "散戶"
+      "content": "微軟"
     },
     {
       "content": "旺 宏"
     },
     {
-      "content": "msft"
+      "content": "美債"
+    },
+    {
+      "content": "spacex"
     },
     {
       "content": "aapl"
     },
     {
-      "content": "今天天氣"
+      "content": "永豐餘"
+    },
+    {
+      "content": "中信兄弟"
     },
     {
       "content": "氣象預報"
+    },
+    {
+      "content": "axti"
+    },
+    {
+      "content": "今天天氣"
     }
   ]
 }
