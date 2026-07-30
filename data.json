@@ -1,68 +1,80 @@
 {
-  "updated": "2026-07-29T23:39:22.161Z",
+  "updated": "2026-07-30T01:00:57.504Z",
   "trends": [
     {
+      "content": "韓國指數"
+    },
+    {
+      "content": "日經指數"
+    },
+    {
       "content": "返稅"
-    },
-    {
-      "content": "環球晶圓"
-    },
-    {
-      "content": "美元"
-    },
-    {
-      "content": "川 普"
-    },
-    {
-      "content": "msft"
     },
     {
       "content": "meta 財報"
     },
     {
-      "content": "散戶"
+      "content": "日本股市"
     },
     {
-      "content": "meta"
+      "content": "kospi"
     },
     {
-      "content": "日本"
+      "content": "利物浦 對 雷克瑟姆"
     },
     {
-      "content": "美股新聞"
+      "content": "日股"
     },
     {
-      "content": "道瓊工業平均指數"
+      "content": "遺贈"
     },
     {
-      "content": "微軟"
+      "content": "msft stock"
     },
     {
-      "content": "旺 宏"
+      "content": "吳申梅"
     },
     {
-      "content": "美債"
-    },
-    {
-      "content": "spacex"
+      "content": "falling slowly"
     },
     {
       "content": "aapl"
     },
     {
+      "content": "ลิเวอร์พูล พบ เร็กซ์แฮม"
+    },
+    {
+      "content": "台安藥局"
+    },
+    {
+      "content": "liverpool vs wrexham"
+    },
+    {
+      "content": "日經"
+    },
+    {
+      "content": "日本"
+    },
+    {
+      "content": "鎧俠股價"
+    },
+    {
+      "content": "道瓊工業平均指數"
+    },
+    {
+      "content": "林思銘"
+    },
+    {
+      "content": "全勝 宰"
+    },
+    {
+      "content": "旺 宏"
+    },
+    {
+      "content": "spacex"
+    },
+    {
       "content": "永豐餘"
-    },
-    {
-      "content": "中信兄弟"
-    },
-    {
-      "content": "氣象預報"
-    },
-    {
-      "content": "axti"
-    },
-    {
-      "content": "今天天氣"
     }
   ]
 }
