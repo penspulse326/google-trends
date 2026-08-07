@@ -1,23 +1,26 @@
 {
-  "updated": "2026-08-07T21:52:36.844Z",
+  "updated": "2026-08-07T22:52:53.358Z",
   "trends": [
     {
       "content": "雨"
     },
     {
-      "content": "洗碗"
+      "content": "补贴"
     },
     {
-      "content": "梅毒"
+      "content": "費城半導體指數"
+    },
+    {
+      "content": "thời tiết"
+    },
+    {
+      "content": "台風"
+    },
+    {
+      "content": "桃園機場"
     },
     {
       "content": "台積電夜盤"
-    },
-    {
-      "content": "打雷"
-    },
-    {
-      "content": "windy"
     }
   ]
 }
