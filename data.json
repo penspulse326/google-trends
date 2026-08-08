@@ -1,8 +1,8 @@
 {
-  "updated": "2026-08-08T22:44:08.268Z",
+  "updated": "2026-08-08T23:04:30.225Z",
   "trends": [
     {
-      "content": "衛星雲圖"
+      "content": "天氣"
     },
     {
       "content": "王 凱"
@@ -14,9 +14,6 @@
       "content": "weather"
     },
     {
-      "content": "旅遊 補助"
-    },
-    {
       "content": "桃園機場"
     },
     {
@@ -24,6 +21,12 @@
     },
     {
       "content": "windy"
+    },
+    {
+      "content": "宜蘭天氣"
+    },
+    {
+      "content": "台鐵"
     },
     {
       "content": "高鐵"
