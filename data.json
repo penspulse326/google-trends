@@ -1,20 +1,38 @@
 {
-  "updated": "2026-08-08T22:02:14.702Z",
+  "updated": "2026-08-08T22:44:08.268Z",
   "trends": [
     {
-      "content": "最新颱風動態"
+      "content": "衛星雲圖"
     },
     {
       "content": "王 凱"
     },
     {
+      "content": "thời tiết"
+    },
+    {
+      "content": "weather"
+    },
+    {
       "content": "旅遊 補助"
+    },
+    {
+      "content": "桃園機場"
+    },
+    {
+      "content": "台风"
     },
     {
       "content": "windy"
     },
     {
-      "content": "桃園機場"
+      "content": "高鐵"
+    },
+    {
+      "content": "基隆"
+    },
+    {
+      "content": "營業額"
     }
   ]
 }
