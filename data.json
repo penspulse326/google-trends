@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-18T23:33:20.881Z",
+  "updated": "2026-08-18T23:55:45.412Z",
   "trends": [
     {
       "content": "股價"
@@ -23,16 +23,16 @@
       "content": "全額交割股"
     },
     {
-      "content": "都市更新"
+      "content": "川湖科技股份有限公司"
+    },
+    {
+      "content": "香蕉"
     },
     {
       "content": "力 積 電"
     },
     {
-      "content": "川湖科技股份有限公司"
-    },
-    {
-      "content": "香蕉"
+      "content": "都市更新"
     },
     {
       "content": "國民旅遊卡"
@@ -41,13 +41,16 @@
       "content": "生肖"
     },
     {
-      "content": "美股新聞"
+      "content": "台指期夜盤指數"
     },
     {
       "content": "田路路"
     },
     {
       "content": "黃金"
+    },
+    {
+      "content": "美股即時"
     }
   ]
 }
